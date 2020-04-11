@@ -14,7 +14,9 @@
   },
   "devDependencies": {
     "jest": "^25.2.6",
-    "nodemon": "^2.0.2",
+    "nodemon": "^2.0.3",
     "supertest": "^4.0.2"
-  }
+  },
+  "repository": "https://github.com/silvacx/desafio-conceitos-nodejs.git",
+  "author": "Camila Silva <milanasc12@gmail.com>"
 }
